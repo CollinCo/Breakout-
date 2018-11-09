@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{49A31386-7459-59D8-5193-87AE1DCE836E}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/tips.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Paddle.cs">
     <Files>
       <File FileName="Assets/Scripts/GameOver.cs" Line="10" Column="9" />
-      <File FileName="Assets/Scripts/Paddle.cs" Line="9" Column="1" />
-      <File FileName="Assets/Scripts/PaddleKeyboard.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/tips.cs" Line="9" Column="3" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="9" Column="38" />
+      <File FileName="Assets/Scripts/PaddleKeyboard.cs" Line="4" Column="3" />
+      <File FileName="Assets/Scripts/tips.cs" Line="19" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
